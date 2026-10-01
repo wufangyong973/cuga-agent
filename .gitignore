@@ -73,6 +73,7 @@ experiments/outputs
 /evaluation/data/tasks/
 /evaluation/data/
 /build/
+temp_auto_push.bat
 src/cuga/demo_tools/email_mcp/mcp_mail
 src/cuga/demo_tools/email_mcp/mail_sink/build
 src/cuga/demo_tools/email_mcp/mcp_server/build
@@ -148,3 +149,5 @@ events/deploy/.env.ce.bak*
 events/deploy/.env.ce
 events/deploy/.ce_urls_split.env
 events/deploy/.ce_urls.env
+.gitignore
+branch_structure.json
